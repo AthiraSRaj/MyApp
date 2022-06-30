@@ -82,6 +82,7 @@
             <div class="content">
                 <div class="title m-b-md">
                     Laravel Project
+                    By athira
                 </div>
 
                 <div class="links">
